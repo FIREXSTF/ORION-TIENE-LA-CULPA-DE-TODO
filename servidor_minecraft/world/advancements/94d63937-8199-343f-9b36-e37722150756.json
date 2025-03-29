@@ -662,6 +662,12 @@
     },
     "done": true
   },
+  "apocalypsenow:militarykid": {
+    "criteria": {
+      "militarykid": "2025-03-29 22:33:26 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/schwarzlose": {
     "criteria": {
       "has_oak_planks": "2025-03-26 16:19:39 +0000"
