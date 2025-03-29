@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-03-29 23:02:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-03-28 00:13:51 +0000"
@@ -50,6 +56,12 @@
   "additionalguns:recipes/additionalguns/akm_custom": {
     "criteria": {
       "has_iron_ingot": "2025-03-26 18:39:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-03-29 23:02:29 +0000"
     },
     "done": true
   },
@@ -635,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2025-03-29 23:02:29 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/medium_scope": {
     "criteria": {
       "has_redstone": "2025-03-26 18:47:05 +0000"
@@ -1141,6 +1159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-03-29 23:02:29 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/stun_grenade": {
     "criteria": {
       "has_gunpowder": "2025-03-26 20:09:24 +0000"
@@ -1282,6 +1306,12 @@
   "additionalguns:recipes/additionalguns/mp7a2": {
     "criteria": {
       "has_iron_ingot": "2025-03-26 18:39:47 +0000"
+    },
+    "done": true
+  },
+  "apocalypsenow:gunner": {
+    "criteria": {
+      "gunner": "2025-03-29 23:03:15 +0000"
     },
     "done": true
   },
@@ -1612,6 +1642,12 @@
   "cgm:recipes/cgm/shotgun": {
     "criteria": {
       "has_iron_ingot": "2025-03-26 18:39:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-03-29 23:02:29 +0000"
     },
     "done": true
   },
@@ -2094,6 +2130,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2025-03-26 18:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2025-03-29 23:02:29 +0000"
     },
     "done": true
   },
