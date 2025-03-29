@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-29 23:46:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-03-26 19:45:43 +0000"
@@ -456,6 +462,12 @@
   "additionalguns:recipes/additionalguns/holo_scope": {
     "criteria": {
       "has_iron_nugget": "2025-03-26 19:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-03-29 23:46:54 +0000"
     },
     "done": true
   },
@@ -831,6 +843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-29 23:46:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2025-03-29 22:08:32 +0000"
@@ -995,6 +1013,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-29 23:45:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2025-03-29 22:07:14 +0000"
@@ -1010,6 +1034,12 @@
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2025-03-29 22:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-03-29 23:46:54 +0000"
     },
     "done": true
   },
@@ -1079,6 +1109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-29 23:46:54 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/stun_grenade": {
     "criteria": {
       "has_gunpowder": "2025-03-26 19:45:04 +0000"
@@ -1130,6 +1166,18 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-03-26 19:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-29 23:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-29 23:46:54 +0000"
     },
     "done": true
   },
@@ -1220,6 +1268,12 @@
   "additionalguns:recipes/additionalguns/mp7a2": {
     "criteria": {
       "has_iron_ingot": "2025-03-26 17:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-03-29 23:46:54 +0000"
     },
     "done": true
   },
@@ -1436,6 +1490,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-03-28 02:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-29 23:46:54 +0000"
     },
     "done": true
   },
@@ -1712,6 +1772,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-28 02:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-29 23:46:54 +0000"
     },
     "done": true
   },
@@ -2062,6 +2128,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2025-03-29 23:44:59 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/ravens_claw": {
     "criteria": {
       "has_iron_ingot": "2025-03-26 17:28:22 +0000"
@@ -2077,6 +2149,12 @@
   "additionalguns:recipes/additionalguns/pp_19": {
     "criteria": {
       "has_iron_ingot": "2025-03-26 17:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-03-29 23:46:54 +0000"
     },
     "done": true
   },

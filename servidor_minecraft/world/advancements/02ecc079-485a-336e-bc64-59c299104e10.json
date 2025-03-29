@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-03-29 23:39:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-26 20:16:50 +0000"
@@ -1011,6 +1017,12 @@
   "additionalguns:recipes/additionalguns/tactical_silencer": {
     "criteria": {
       "has_iron_ingot": "2025-03-26 20:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-03-29 23:39:48 +0000"
     },
     "done": true
   },
@@ -1900,6 +1912,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-03-26 19:51:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-03-29 23:39:48 +0000"
     },
     "done": true
   },
