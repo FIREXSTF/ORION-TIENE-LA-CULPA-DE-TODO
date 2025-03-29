@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-03-29 22:11:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-03-26 20:37:06 +0000"
@@ -766,6 +772,12 @@
   "additionalguns:recipes/additionalguns/g11": {
     "criteria": {
       "has_iron_ingot": "2025-03-26 18:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-03-29 22:11:51 +0000"
     },
     "done": true
   },
@@ -1431,6 +1443,12 @@
   "additionalguns:recipes/additionalguns/tactical_muzzle_brake": {
     "criteria": {
       "has_iron_ingot": "2025-03-26 18:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-03-29 22:11:51 +0000"
     },
     "done": true
   },
@@ -2711,6 +2729,12 @@
   "cgm:recipes/cgm/bazooka": {
     "criteria": {
       "has_iron_ingot": "2025-03-26 18:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-03-29 22:11:51 +0000"
     },
     "done": true
   },
