@@ -888,6 +888,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-29 23:53:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-26 20:16:41 +0000"
@@ -1760,6 +1766,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-29 23:53:49 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/python": {
     "criteria": {
       "has_planks": "2025-03-26 19:15:21 +0000"
@@ -1871,6 +1883,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-03-26 18:54:03 +0000",
+      "minecraft:mountains": "2025-03-29 23:55:06 +0000",
       "minecraft:birch_forest": "2025-03-26 19:26:43 +0000",
       "minecraft:river": "2025-03-28 19:23:05 +0000",
       "minecraft:birch_forest_hills": "2025-03-28 19:23:31 +0000",
