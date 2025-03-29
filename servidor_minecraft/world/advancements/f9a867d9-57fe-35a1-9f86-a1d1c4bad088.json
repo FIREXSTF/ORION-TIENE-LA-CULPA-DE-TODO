@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-29 21:56:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_reeds": "2025-03-29 21:10:41 +0000"
@@ -279,6 +285,12 @@
   "additionalguns:recipes/additionalguns/m1014": {
     "criteria": {
       "has_iron_ingot": "2025-03-27 02:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-03-29 21:56:33 +0000"
     },
     "done": true
   },
@@ -480,6 +492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-29 21:56:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-03-27 02:15:41 +0000"
@@ -570,6 +588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-03-29 21:56:33 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/9a91": {
     "criteria": {
       "has_iron_ingot": "2025-03-27 02:15:41 +0000"
@@ -606,6 +630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-29 21:56:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-03-27 02:15:41 +0000"
@@ -615,6 +645,12 @@
   "additionalguns:recipes/additionalguns/g11": {
     "criteria": {
       "has_iron_ingot": "2025-03-27 02:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-29 21:56:33 +0000"
     },
     "done": true
   },
@@ -669,6 +705,12 @@
   "additionalguns:recipes/additionalguns/mp7a2": {
     "criteria": {
       "has_iron_ingot": "2025-03-27 02:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-03-29 21:56:33 +0000"
     },
     "done": true
   },
@@ -789,6 +831,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-03-29 21:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-29 21:56:33 +0000"
     },
     "done": true
   },
@@ -957,6 +1005,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-27 02:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-29 21:56:33 +0000"
     },
     "done": true
   },
@@ -1172,6 +1226,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2025-03-27 05:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-03-29 21:56:33 +0000"
     },
     "done": true
   },
