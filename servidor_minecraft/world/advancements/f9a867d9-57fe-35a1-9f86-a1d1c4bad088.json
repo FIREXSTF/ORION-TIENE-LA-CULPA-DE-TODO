@@ -229,6 +229,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-03-29 21:32:56 +0000",
       "enchanted_golden_apple": "2025-03-27 04:39:11 +0000"
     },
     "done": false
@@ -368,6 +369,12 @@
   "additionalguns:recipes/additionalguns/aks74u": {
     "criteria": {
       "has_iron_ingot": "2025-03-27 02:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-03-29 21:33:10 +0000"
     },
     "done": true
   },
@@ -548,6 +555,18 @@
   "additionalguns:recipes/additionalguns/tactical_silencer": {
     "criteria": {
       "has_iron_ingot": "2025-03-27 02:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-03-29 21:40:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-03-29 21:40:26 +0000"
     },
     "done": true
   },
@@ -845,6 +864,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-29 21:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-03-29 21:40:26 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/ak15": {
     "criteria": {
       "has_iron_ingot": "2025-03-27 02:15:41 +0000"
@@ -950,6 +981,12 @@
   "additionalguns:recipes/additionalguns/custom_mac": {
     "criteria": {
       "has_iron_ingot": "2025-03-27 02:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-03-29 21:40:08 +0000"
     },
     "done": true
   },
