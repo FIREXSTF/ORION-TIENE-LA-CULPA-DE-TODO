@@ -1344,6 +1344,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-29 23:31:36 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/usas12": {
     "criteria": {
       "has_iron_ingot": "2025-03-26 18:46:10 +0000"
@@ -2047,6 +2053,12 @@
       "has_smooth_stone": "2025-03-28 02:16:44 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-03-29 23:32:25 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
@@ -3047,6 +3059,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2025-03-26 18:43:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-03-29 23:32:25 +0000"
     },
     "done": true
   },
