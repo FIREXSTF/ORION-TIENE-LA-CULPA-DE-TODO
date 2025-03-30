@@ -965,6 +965,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-03-30 00:04:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-26 17:53:48 +0000"

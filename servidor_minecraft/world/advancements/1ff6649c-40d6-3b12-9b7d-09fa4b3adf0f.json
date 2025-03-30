@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2025-03-30 00:00:13 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/desert_eagle": {
     "criteria": {
       "has_iron_ingot": "2025-03-29 23:04:19 +0000"
@@ -434,6 +440,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-03-29 22:06:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-30 00:01:40 +0000"
     },
     "done": true
   },
@@ -878,6 +890,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2025-03-29 23:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2025-03-30 00:00:13 +0000"
     },
     "done": true
   },
