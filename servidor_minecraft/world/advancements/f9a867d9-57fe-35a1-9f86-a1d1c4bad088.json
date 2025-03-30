@@ -932,6 +932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-30 01:02:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-03-27 02:15:41 +0000"
@@ -1661,6 +1667,12 @@
   "additionalguns:recipes/additionalguns/tactical_muzzle_brake": {
     "criteria": {
       "has_iron_ingot": "2025-03-27 02:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2025-03-30 01:02:55 +0000"
     },
     "done": true
   },
