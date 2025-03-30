@@ -4,11 +4,5 @@
     "name": "Elcovid19",
     "level": 4,
     "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "f9a867d9-57fe-35a1-9f86-a1d1c4bad088",
-    "name": "FirexpSTF",
-    "level": 4,
-    "bypassesPlayerLimit": false
   }
 ]
